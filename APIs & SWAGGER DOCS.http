@@ -1,0 +1,6 @@
+@APIs___SWAGGER_DOCS_HostAddress = http://localhost:5237
+
+GET {{APIs___SWAGGER_DOCS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

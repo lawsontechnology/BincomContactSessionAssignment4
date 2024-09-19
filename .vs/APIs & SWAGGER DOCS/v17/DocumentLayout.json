@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\migrations\\20240919134836_galleryapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:migrations\\20240919134836_galleryapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\apis \u0026 swagger docs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:apis \u0026 swagger docs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\galleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:galleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\galleryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:galleryrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\galleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:galleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\igalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:igalleryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\igalleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:igalleryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|c:\\users\\user\\source\\repos\\apis \u0026 swagger docs\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18D35476-1731-4C31-8450-074F12E6C8E1}|APIs \u0026 SWAGGER DOCS.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240919134836_GalleryApi.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Migrations\\20240919134836_GalleryApi.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240919134836_GalleryApi.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Migrations\\20240919134836_GalleryApi.cs",
+              "RelativeToolTip": "Migrations\\20240919134836_GalleryApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:48:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T13:34:36.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APIs \u0026 SWAGGER DOCS",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\APIs \u0026 SWAGGER DOCS.csproj",
+              "RelativeDocumentMoniker": "APIs \u0026 SWAGGER DOCS.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\APIs \u0026 SWAGGER DOCS.csproj",
+              "RelativeToolTip": "APIs \u0026 SWAGGER DOCS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T12:54:39.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GalleryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "Controllers\\GalleryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:57:15.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T12:57:06.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:54:51.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGalleryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\IGalleryRepository.cs",
+              "RelativeDocumentMoniker": "IGalleryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\IGalleryRepository.cs",
+              "RelativeToolTip": "IGalleryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:54:25.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GalleryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\GalleryService.cs",
+              "RelativeDocumentMoniker": "GalleryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\GalleryService.cs",
+              "RelativeToolTip": "GalleryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:54:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GalleryRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\GalleryRequestModel.cs",
+              "RelativeDocumentMoniker": "GalleryRequestModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\GalleryRequestModel.cs",
+              "RelativeToolTip": "GalleryRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:54:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GalleryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\GalleryRepository.cs",
+              "RelativeDocumentMoniker": "GalleryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\GalleryRepository.cs",
+              "RelativeToolTip": "GalleryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:54:00.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "BaseResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\BaseResponse.cs",
+              "RelativeToolTip": "BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:53:51.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:53:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Gallery.cs",
+              "RelativeDocumentMoniker": "Gallery.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Gallery.cs",
+              "RelativeToolTip": "Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:52:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGalleryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\IGalleryService.cs",
+              "RelativeDocumentMoniker": "IGalleryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\IGalleryService.cs",
+              "RelativeToolTip": "IGalleryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:52:42.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\APIs \u0026 SWAGGER DOCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:46:00.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
